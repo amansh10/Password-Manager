@@ -105,7 +105,7 @@ Password: mySecurePass
 
 ## 👨‍💻 Author
 
-- Developed by **Sapta Rangi** during summer break to build better software design habits with multi-file C++ projects and deeper use of data structures like BST.
+- Developed by **Aman Shrestha** during summer break to build better software design habits with multi-file C++ projects and deeper use of data structures like BST.
 
 ---
 
